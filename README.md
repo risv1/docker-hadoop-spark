@@ -1,5 +1,5 @@
 # Hadoop
-Basic hadoop nodes
+Basic hadoop nodes 
 
 # MapReduce
 
@@ -20,7 +20,7 @@ Verify output
 `hdfs dfs -cat /user/hadoop/output/part-r-00000` 
 
 # Spark
-Setup venv with python and install requirements (just pyspark)
-Simple example for line count with python
-Run following command in docker terminal
+Setup venv with python and install requirements (just pyspark) \
+Simple example for line count with python \
+Run following command in docker terminal \
 `spark spark-submit /app/main.py`
